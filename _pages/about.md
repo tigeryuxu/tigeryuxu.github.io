@@ -10,7 +10,9 @@ profile:
   image_cicular: false # crops the image to make it circular
   address: > # <p>555 your office number</p> <p>123 your address street</p> <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
+publications: true # includes a list of publications
+preprints: true # includes a list of papers marked as "preprint={true}"
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
@@ -20,3 +22,5 @@ Ciao! I am a PhD student in the Computer Science Department at Johns Hopkins Uni
 In the past, I have worked with [Rhonda Dzakpasu](https://physics.georgetown.edu/rhonda-dzakpasu/) in the Department of Physics at Georgetown University to study spontaneous activity of *in vitro*, embryonal neural-astrocyte networks.
 
 My research focuses on formal interpretability for deep learning models, the theoretical foundations of weakly-supervised learning, and its applications to medical imaging and general computer vision tasks.
+
+**contact:** jtenegg1 at jhu dot edu
