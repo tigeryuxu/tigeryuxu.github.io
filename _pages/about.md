@@ -17,13 +17,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Ciao! I am a PhD student in the Computer Science Department at Johns Hopkins University, where I am honored to be advised by [Jeremias Sulam](https://sites.google.com/view/jsulam) and to be affiliated with the [Mathematical Institute for Data Science](https://www.minds.jhu.edu/). Prior to joining JHU, I obtained my Bachelor's degree in Biomedical Engineering at [Politecnico di Torino, Italy](https://www.polito.it/).
+I am a PhD student in the Computer Science Department at Johns Hopkins University, where I am honored to be advised by [Jeremias Sulam](https://sites.google.com/view/jsulam) and to be affiliated with the [Mathematical Institute for Data Science](https://www.minds.jhu.edu/). Prior to joining JHU, I obtained my Bachelor's degree in Biomedical Engineering at [Politecnico di Torino, Italy](https://www.polito.it/).
 
 My research focuses on:
 
 - Formal machine learning explainability,
-- uncertainty quantification,
-- weakly supervised learning for medical imaging.
+- Uncertainty quantification,
+- Weakly supervised learning for medical imaging.
 
 In the past, I have worked with [Rhonda Dzakpasu](https://physics.georgetown.edu/rhonda-dzakpasu/) in the Department of Physics at Georgetown University to study spontaneous activity of *in vitro*, embryonal neural-astrocyte networks.
 
