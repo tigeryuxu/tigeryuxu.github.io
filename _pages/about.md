@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cs.jhu.edu/'>Johns Hopkins University, Baltimore, MD</a>
+subtitle: <a href='https://neuroscience.jhu.edu/'>Johns School of Medicine, Baltimore, MD</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_TX_downsampled.jpg
   image_cicular: false # crops the image to make it circular
   address: > # <p>555 your office number</p> <p>123 your address street</p> <p>Your City, State 12345</p>
 
@@ -17,14 +17,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in the Computer Science Department at Johns Hopkins University, where I am honored to be advised by [Jeremias Sulam](https://sites.google.com/view/jsulam) and to be affiliated with the [Mathematical Institute for Data Science](https://www.minds.jhu.edu/). Prior to joining JHU, I obtained my Bachelor's degree in Biomedical Engineering at [Politecnico di Torino, Italy](https://www.polito.it/).
+I am a PhD student and [Kavli NDI Distinguished graduate fellow](https://kavlijhu.org/initiatives/awards) in the Solomon H. Snyder Department of Neuroscience at Johns Hopkins School of Medicine, where I am advised by [Dwight Bergles](https://neuroscience.jhu.edu/research/faculty/6) and [Jeremias Sulam](https://sites.google.com/view/jsulam). Prior to Johns Hopkins, I obtained my B.Sc. in Physiology at McGill University in Montreal, and completed my honors thesis in the lab of [Jack Antel](https://www.mcgill.ca/neurology-neurosurgery/jack-p-antel-md), devising high-throughput drug-screening pipelines to identify therapeutics for multiple sclerosis.
 
-My research focuses on:
+My current research focuses on:
 
-- Formal machine learning explainability,
-- Uncertainty quantification,
-- Weakly supervised learning for medical imaging.
+- Whole-brain mapping of oligodendrocyte patterns,
+- Uncovering the relationship between brain vasculature and oligodendrocyte progenitor cells,
+- Examining the mechanisms of nodal plasticity *in vivo*,
+- Building computational pipelines and deep learning algorithms for cell tracing and tracking,
 
-In the past, I have worked with [Rhonda Dzakpasu](https://physics.georgetown.edu/rhonda-dzakpasu/) in the Department of Physics at Georgetown University to study spontaneous activity of *in vitro*, embryonal neural-astrocyte networks.
+Outside the lab, I am a casual musician and eager supporter of the performing arts, co-founding a production company, [Two Gents of New West](https://twogentsnw.weebly.com/), that aims to help young aspiring artists by giving a voice to innovative new stories and projects.
 
-**contact:** jtenegg1 at jhu dot edu
+
+
+**contact:** yxu130 at jhmi dot edu
